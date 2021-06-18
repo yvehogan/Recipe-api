@@ -1,0 +1,38 @@
+.white-box {
+  display: grid;
+  align-content: center;
+  border-radius: 10px;
+}
+.signin-tag {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.signin-form {
+  margin: 0 40px 0 40px;
+  width: 100%;
+}
+
+.signin-input {
+  border: none;
+  border-bottom: 1px solid #000;
+  margin: 0 0 30px 0;
+  width: 80%;
+}
+.Login-button {
+  color: #fff;
+  background-color: #1663be;
+  border: 1px solid #fff;
+  border-radius: 15px;
+  padding: 8px 50px;
+}
+
+.Login-button:hover {
+  background-color: #fff;
+  color: #1663be;
+  border: 1px solid #1663be;
+  border-radius: 15px;
+  font-weight: bold;
+}
