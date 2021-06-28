@@ -1,0 +1,162 @@
+{
+    "Recipes": [
+      {  
+          "id": 0,
+          "name": "Abak atama",
+          "description": "Abak Atama Soup is a delicious soup popular amongst the Ibibios of Akwa Ibom State in Southern Nigeria. Its name is derived from the two dominant ingredients: Palm Fruit Concentrate (Abak) and Atama Leaves.",
+          "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/04/abak-atama-soup.jpg",
+          "ingredients": ["palm fruits", "Beef or goat meat", "cow skin", "smoken fish", "dry fish", "stock fish", "atama leaves", "onion", "crayfish", "unshelled periwinkles", "stoke cubes and salt"]
+        },
+        {  
+            "id": 1,
+            "name": "Ora Soup",
+            "description": "Ora (Oha) soup is native to the South Eastern Nigeria. It is a very traditional soup similar to the bitterleaf soup but cooked with Ora leaves.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/ora-soup.jpg",
+            "ingredients": ["ora leaves", "cocoyam", "assorted beef", "assorted fish", "chilli pepper", "crayfish", "stock cubes", "1 teaspoon ogiri igbo"]
+          },
+          {  
+            "id": 2,
+            "name": "Efo Riro",
+            "description": "Efo Riro is a rich vegetable soup that is native to the Yorubas of Western Nigeria. The vegetables that can be used to cook this soup are Efo Shoko or Efo Tete (Green Amaranth).",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/efo-riro.jpg",
+            "ingredients": ["Beef", "shaki", "smoked fish", "dry fish", "stock fish", "palm oil", "efo shoko", "tatashe peppers", "ground crayfish", "red onions", "locust beans", "salt and habanero peppers"]
+          },
+          {  
+            "id": 3,
+            "name": "Ekpang Nkwukwo",
+            "description": "Ekpang Nkwukwo is one of the Nigerian cocoyam recipes made with grated cocoyam, water yam, cocoyam leaves and periwinkle. It is a Nigerian food recipe native to the South South Eastern Nigeria, the Cross River and Akwa Ibom States of Nigeria.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/04/nigerian-ekpang-nkwukwo.jpg",
+            "ingredients": ["cocoyam", "water yam", "tender cocoyam leaves", "pumpkin leaves", "scent leaves", "palm oil", "crayfish", "periwinkles", "snail", "red onions", "pepper and salt"]
+          },
+
+          {  
+            "id": 4,
+            "name": " Edikang Ikong",
+            "description": "The Nigerian Edikang Ikong soup or simply Vegetable Soup is native to the Efiks, people from Akwa Ibom and Cross River states of Nigeria. It is a general notion that the Edikang Ikong soup is very nutritious and this is very much so. Prepared with a generous quantity of pumpkin leaves and water leaves, this Nigerian soup recipe is nourishing in every sense of the word.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/edikaikong-soup.jpg",
+            "ingredients": ["pumpkin leaves", "water leaves", "beef, shaki and dry fish", "palm oil", "periwinkle", "onion", "crayfish", "snail", "red onions", "pepper and salt"]
+          },
+
+          {  
+            "id": 5,
+            "name": "Achicha Ede",
+            "description": "Achicha Ede (Echicha Ede in Enugu State of Nigeria) is a cocoyam pottage prepared with dried cocoyam flakes. It is one of the most traditional meals in Igboland.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/achicha-ede.jpg",
+            "ingredients": ["cocoyam flakes", "green amaranth","palm oil", "scent leaves", "spinach", "ukpaka", "Hbanero peppers", "red onions"]
+          },
+
+          {  
+            "id": 6,
+            "name": "Gizdodo",
+            "description": "Gizdodo is the perfect way to combine a few farm fresh ingredients with great results. You can't believe the number of ingredients in this single meal. Yummy!.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/gizdodo.jpg",
+            "ingredients": ["ripe plantain", "gizzard","mushrooms", "green bell pepper", "tomatoes", "thyme", "Hbanero peppers", "onions"]
+          },
+          
+          {  
+            "id": 7,
+            "name": "Coconut Jollof Rice",
+            "description": "If you want to surprise someone, this meal I call the surprise Jollof Rice should be your first choice. Your guests think they are about to eat the classic Jollof Rice but are pleasantly surprised when the meal hits the tongue!",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/06/coconut-jollof-rice.jpg",
+            "ingredients": ["rice", "coconut milk","tomato stew base", "chicken", "shrimps", "thyme", "small carrots", "onions", "seasoning cubes", "green peas"]
+          },
+
+          {  
+            "id": 8,
+            "name": "Coconut Spaghetti Jollof",
+            "description": "It's time to take your Spaghetti Jollof Rice from basic to exotic!.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/coconut-spaghetti-jollof.jpg",
+            "ingredients":  ["spaghetti", "coconut milk","tomato stew base", "chicken", "shrimps", "thyme", "small carrots", "onions", "seasoning cubes", "green peas"]
+          },
+
+          {  
+            "id": 9,
+            "name": "Nigerian Fried Rice",
+            "description": "This is a recipe for the easiest Fried Rice you will ever cook and it is so tasty.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/04/easy-nigerian-fried-rice.jpg",
+            "ingredients":  ["rice", "vegetable oil","carrots", "chicken", "sweet corn", "green peas", "thyme", "fresh paprika", "onions", "seasoning cubes"]
+          },
+
+          {  
+            "id": 10,
+            "name": "Jollof Stuffed Chicken",
+            "description": "This recipe is simply the classic Jollof Rice cooked inside the belly of whole chicken. It's a different way to serve Jollof Rice",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/jollof-stuffed-chicken.jpg",
+            "ingredients":  ["rice", "vegetable oil","carrots", "whole chicken", "tomato stew", "thyme", "bay leaves", "onions", "seasoning cubes"]
+          },
+
+          {  
+            "id": 11,
+            "name": "African Salad (Abacha)",
+            "description": "Abacha is prepared with cassava. The cassava tubers are cooked till done then sliced with a special grater. Your African Salad will not be complete without Ugba. Ugba, also known as Ukpaka, is made from oil bean seeds.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/african-salad.png",
+            "ingredients":  ["abacha", "ugba","palm oil", "powdered potash", "fish", "onion", "ehu seeds", "ground crayfish", "seasoning cubes"]
+          },
+
+          {  
+            "id": 12,
+            "name": "Chicken Suya Salad",
+            "description": "Chicken Suya Salad is simply the yummy medemede of Chicken Suya with all the vegetables that go well with suya, in one plate.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/chicken-suya-salad1.jpg",
+            "ingredients":  ["long pieces of chicken suya", "suya pepper","small cabbage", "medium cucumber", "tomato", "red onion"]
+          },
+
+          {
+          "id": 13,
+          "name": "Bird’s Nest Salad",
+          "description": "If you want to serve salads with a gourmet wow factor, then you should try this. I can't guarantee that it is easy to tuck those long strands of lettuce and carrots into your mouth but you can see that it is easy on the eye. It's one of those plating techniques that is worth trying at least once in your life just so that you can feel a sense of achievement..",
+          "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/birdsnest-salad.jpg",
+          "ingredients":  ["lettuce", "carrot","cucumber", "irish potato", "boiled egg", "sweet corn", "mayonnaise", "ground black pepper", "heinz salad cream"]
+        },
+
+        {
+            "id": 14,
+            "name": "Mixed Vegetables Curry Sauce",
+            "description": "The go-to vegetable sauce. It's quick, it's easy and it's delicious! It's the perfect match for boiled white rice. Take a break from fried tomato stew and try the Mixed Vegetables Curry Sauce today.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/mixedveggiesauce.jpg",
+            "ingredients":  ["carrot", "onion","mushrooms", "green bell pepper", "red bell pepper", "soft chicken", "corn flour", "thyme", "curry", "stock cubes"]
+          },
+
+          {
+            "id": 15,
+            "name": "Garden Egg Sauce",
+            "description": "Garden Egg Sauce may well be the best sauce for Boiled White Yam. It contains palm oil which boiled yam loves.",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/garden-egg-sauce.jpg",
+            "ingredients":  ["big garden eggs", "palm oil","onion", "Habanero pepper", "iru", "smoken mackerels"]
+          },
+
+          {
+            "id": 16,
+            "name": "Spicy Durban chicken curry",
+            "description": "From the east coast of South Africa comes this vibrant chicken curry. Not for the faint-hearted!",
+            "url": "https://img.taste.com.au/oQ-gYNf2/w643-h428-cfill-q90/taste/2016/11/spicy-durban-chicken-curry-103779-1.jpeg",
+            "ingredients":  ["sunflower oil", "chicken thigh","onion", "garlic cloves", "cinnamon quills", "masala curry", "ginger", "fennel seeds", "curry leaves", "chopped tomatoes"]
+          },
+
+          {
+            "id": 17,
+            "name": "Bunny chow (chicken curry rolls)",
+            "description": "South African bunny chow which comprises curry in a hollowed out bread loaf, is a budget-friendly meal loved for its portability and rich, hearty flavours.",
+            "url": "https://img.taste.com.au/bfJ_-6CS/w643-h428-cfill-q90/taste/2016/11/bunny-chow-chicken-curry-rolls-90510-1.jpeg",
+            "ingredients":  ["sunflower oil", "chicken thigh","onion", "garlic cloves", "cinnamon quills", "masala curry", "ginger", "fennel seeds", "curry leaves", " tomato paste", "large bread rolls", "olive oil"]
+          },
+
+          {
+            "id": 18,
+            "name": "Bobotie (South African curried mince pie)",
+            "description": "This traditional South African dish incorporates mildly spiced curried mince with a savoury custard topping.",
+            "url": "https://img.taste.com.au/aw8e1Aw0/w643-h428-cfill-q90/taste/2016/11/bobotie-south-african-curried-mince-pie-90508-1.jpeg",
+            "ingredients":  ["fresh breadcrumbs", "milk","olive oil", "carrot", "garlic cloves", "beef mince", "ginger", "silver almonds", "massel beef", " tomato paste", "eggs", "lemon"]
+          },
+
+          {
+            "id": 19,
+            "name": "Cauliflower Stir-fry",
+            "description": "Cauliflower Stir-fry makes a great side dish to Grilled Chicken, Nigerian rice dishes, Fried Plantain and Nigerian Moi Moi. It is also a nice light meal on its own. ",
+            "url": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/04/cauliflower-stirfry.jpg",
+            "ingredients":  ["cauliflower florets", "carrot","red onion", "green pepper", "tatashe pepper", "seasoning cube", "vegetable oil", "black pepper", "salt"]
+          }
+    ]
+    
+}
+
